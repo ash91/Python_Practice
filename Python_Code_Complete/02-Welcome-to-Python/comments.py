@@ -6,5 +6,3 @@ print("Good night")
 print(1 + 1) # Adds together 1 + 1
 
 # print(1 + 1)
-# print(1 + 1)
-# print(1 + 1)
