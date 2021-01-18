@@ -1,4 +1,4 @@
-# #This would be a comment in Python
+#This would be a comment in Python
 
 """ 
 This would be a multiline comment
