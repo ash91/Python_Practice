@@ -3,4 +3,4 @@
 #'hello' is the same as "hellod.
 #Examples of string
 print("Hi There! How are you doing")
-print('Hi "How are You".')
+print('Hi, Im writing python code')
